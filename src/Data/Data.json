@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "rideName": "BIKE",
+        "vehicleType": "bike",
+        "image": "https://cpng.pikpng.com/pngl/s/288-2887272_riding-motorcycle-cartoon-png-clipart.png",
+        "capacity" : 4,
+        "cost" : "$67"
+        
+    },
+    {
+        "id": 2,
+        "rideName": "CAR",
+        "vehicleType": "car",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHKoIVTYLrFeexGJ37XMsWQgEa59oOX-LB2g&usqp=CAU",
+        "capacity" : 4,
+        "cost" : "$67"
+    },
+    {
+        "id": 3,
+        "rideName": "BUS",
+        "vehicleType": "bus",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdo6ITd7Dy3N38v2MXOt8yPVEtpGeXKXue0A&usqp=CAU",
+        "capacity" : 4,
+        "cost" : "$67"
+    },
+    {
+        "id": 4,
+        "rideName": "TRAIN",
+        "vehicleType": "train",
+        "image": "https://i.pinimg.com/736x/54/69/dc/5469dce4bf8826d5b8cb3cc0e6ed9a64.jpg",
+        "capacity" : 4,
+        "cost" : "$67"
+    }
+]
